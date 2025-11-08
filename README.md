@@ -4,9 +4,9 @@ Standalone implementation of Zygisk, providing Zygisk API support for KernelSU a
 
 ## Translations
 
-You can contribute to translations for the WebUI via making pull requests to the [i18n branch](https://github.com/Dr-TSNG/ZygiskNext/tree/i18n).
+You can contribute to translations for the WebUI via making pull requests to the [i18n branch](https://github.com/Dr-TSNG/ZygiskNext/Notice/i18n).
 
-## Copyright Notice
+## Copyright Ntreee
 
 Copyright © 2024 Zygisk Next developers. All rights reserved.
 
