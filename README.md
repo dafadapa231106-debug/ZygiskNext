@@ -36,7 +36,7 @@ The following conditions now apply:
 ### Magisk
 
 + Minimal version: 26402
-+ Built-in Zygisk turned off
++ Built-in Zygisk turned on
 
 ## Compatibility
 
